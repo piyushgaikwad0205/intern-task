@@ -5,9 +5,9 @@ Welcome to the Intern Practice App! This project is designed to help you practic
 ## 📋 Project Overview
 
 This is a simple React-based webpage with three main components that need to be developed:
-- **Header/Navigation** - Intern 1
-- **Features Section** - Intern 2
-- **Footer** - Intern 3
+- **Header/Navigation** - Sanket
+- **Features Section** - Ashwariya
+- **Footer** - Sanika
 
 Each intern will work on their assigned component, practice creating branches, committing code, and submitting pull requests for code review.
 
@@ -45,7 +45,7 @@ The app will open at `http://localhost:3000`
 
 ## 👥 Task Assignments
 
-### ✅ INTERN 1: Header/Navigation Component
+### ✅ SANKET: Header/Navigation Component
 
 **File to Edit**: `src/components/Header.jsx` and `src/styles/Header.css`
 
@@ -91,7 +91,7 @@ git push origin feature/header-component
 
 ---
 
-### ✅ INTERN 2: Features Section Component
+### ✅ ASHWARIYA: Features Section Component
 
 **File to Edit**: `src/components/Features.jsx` and `src/styles/Features.css`
 
@@ -138,7 +138,7 @@ git push origin feature/features-section
 
 ---
 
-### ✅ INTERN 3: Footer Component
+### ✅ SANIKA: Footer Component
 
 **File to Edit**: `src/components/Footer.jsx` and `src/styles/Footer.css`
 
