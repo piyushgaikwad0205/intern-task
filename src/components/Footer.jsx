@@ -39,7 +39,7 @@ function Footer() {
       <div className="footer-content">
         {/* TODO: Add footer columns with links */}
         <div className="footer-column">
-          <h4>Company</h4>
+          <h4>Companys</h4>
           <ul>
             <li><a href="#about">About Us</a></li>
             <li><a href="#blog">Blog</a></li>
