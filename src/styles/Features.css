@@ -19,7 +19,7 @@
 }
 
 .feature-card {
-  background: white;
+  background: #f8f9fa;
   border: 1px solid #dee2e6;
   padding: 2rem;
   border-radius: 8px;
@@ -36,7 +36,7 @@
 .feature-icon {
   font-size: 3rem;
   margin-bottom: 1rem;
-  /* TODO: Add more icon styling */
+  display: block;
 }
 
 .feature-card h3 {

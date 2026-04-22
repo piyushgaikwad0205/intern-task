@@ -40,15 +40,15 @@ function Features() {
     },
     {
       id: 2,
-      icon: '🛡️',
-      title: 'Secure',
-      description: 'Enterprise-grade security for your data'
+      icon: '📱',
+      title: 'Reliable',
+      description: 'Delivers consistent and stable performance across all devices and network conditions.'
     },
     {
       id: 3,
-      icon: '📱',
-      title: 'Responsive',
-      description: 'Works seamlessly on all devices and screen sizes'
+      icon: '🛡️',
+      title: 'Scalable',
+      description: 'Built to efficiently handle increasing users and workloads without performance issues.'
     }
   ]
 
